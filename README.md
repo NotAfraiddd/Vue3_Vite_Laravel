@@ -65,4 +65,13 @@ npm run dev
 ```
 yarn dev
 ```
-# Vue3_Vite_Laravel
+
+# Link
+
+```
+http://localhost:8000/
+```
+
+# NOTE:
+
+- **Must run both backend and frontend at the same time**
